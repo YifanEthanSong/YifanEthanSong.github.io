@@ -10,6 +10,7 @@ https://yifanethansong.github.io/
 
 - `index.html` — main portfolio page
 - `style.css` — website styling
+- `headshot.jpg` — profile headshot
 - `README.md` — repository overview
 
 ## Portfolio Sections
