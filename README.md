@@ -11,6 +11,7 @@ https://yifanethansong.github.io/
 - `index.html` — main portfolio page
 - `style.css` — website styling
 - `headshot.jpg` — profile headshot
+- `Yifan_Song_Resume_Public.pdf` — public résumé with private contact details removed
 - `README.md` — repository overview
 
 ## Portfolio Sections
@@ -18,7 +19,7 @@ https://yifanethansong.github.io/
 - Personal statement
 - About
 - Skills
-- Projects
-- Professional links
+- Three completed projects
+- Professional links and résumé
 
 Published with GitHub Pages.
